@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+}
+button {
+    width: 150px;
+    padding: 12px;
+    border-radius: 12px;
+    background-color: peru;
+    color: white;
+    border: none;
+    margin: 10px;
+    font-weight: bolder;
+    font-family: 'Chelsea Market', cursive;
+}
+.img {
+    display: inline-block;
+    width: 25%;
+}
+
+p {
+    
+    font-family: 'Chelsea Market', cursive;
+}
+header {
+    color: white;
+    display: inline-block;
+}
+#submit {
+    width: 100px;
+    height: 40px;
+    font-family: 'Chelsea Market', cursive;
+}
+#container {
+    text-align: center;
+    font-family: 'Chelsea Market', cursive;
+}
